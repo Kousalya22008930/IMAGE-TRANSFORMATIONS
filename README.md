@@ -39,7 +39,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 # Load the image
-image = cv2.imread('bb.jpeg')
+image = cv2.imread('sw.jpeg')
 image_rgb = cv2.cvtColor(image, cv2.COLOR_BGR2RGB)  # Convert BGR to RGB for Matplotlib
 
 # Plot the original image
