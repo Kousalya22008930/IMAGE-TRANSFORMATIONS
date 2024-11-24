@@ -49,7 +49,7 @@ plt.title("Original Image")
 plt.axis('off')
 ```
 ### Output
-![ori](https://github.com/user-attachments/assets/94255ee8-7922-4626-a976-54065d709d16)
+![image](https://github.com/user-attachments/assets/feb79455-c719-4f3c-a502-f086713a6f7c)
 
 ### i)Image Translation
 ```python
@@ -63,7 +63,7 @@ plt.title("Translated Image")
 plt.axis('off')
 ```
 ### Output
-![trans](https://github.com/user-attachments/assets/0a52b307-4a44-42fc-b24e-72e7168372ad)
+![image](https://github.com/user-attachments/assets/cf6e8e79-76dc-449d-92c7-1395da7477e7)
 
 ### ii) Image Scaling
 ```python
@@ -75,7 +75,7 @@ plt.title("Scaled Image")
 plt.axis('off')
 ```
 ### Output
-![sca](https://github.com/user-attachments/assets/a7a9ae85-662e-454e-944d-09755a1b4586)
+![image](https://github.com/user-attachments/assets/3c77a242-5598-4560-8a64-c2d02837dec2)
 
 ### iii)Image shearing
 ```python
@@ -88,7 +88,7 @@ plt.title("Sheared Image")
 plt.axis('off')
 ```
 ### Output
-![sear](https://github.com/user-attachments/assets/1e1ea5d2-9f2f-4898-8c1d-f2abd769de89)
+![image](https://github.com/user-attachments/assets/7fc77c44-06fe-4dcf-b33c-254fa7f4146f)
 
 
 ### iv)Image Reflection
@@ -101,7 +101,7 @@ plt.title("Reflected Image")
 plt.axis('off')
 ```
 ### Output
-![ref](https://github.com/user-attachments/assets/83b7b138-c3cd-4ba1-86e1-69f94cbdda49)
+![image](https://github.com/user-attachments/assets/dff9c694-6c01-4f68-a7f8-389be55f98ee)
 
 ### v)Image Rotation
 ```python
@@ -114,7 +114,7 @@ plt.title("Rotated Image")
 plt.axis('off')
 ```
 ### Output
-![rot](https://github.com/user-attachments/assets/ee94f7d3-461f-4ae2-b28b-e4bbd30c8840)
+![image](https://github.com/user-attachments/assets/9604afb4-2750-45db-aaa5-d82481dae946)
 
 ### vi)Image Cropping
 ```python
@@ -128,7 +128,7 @@ plt.axis('off')
 plt.show()
 ```
 ### Output
-![crop](https://github.com/user-attachments/assets/4b77c669-3615-43a3-a211-79a4c39b5ee9)
+![image](https://github.com/user-attachments/assets/18723ad0-e66b-449d-bef2-0e5e047bd381)
 
 ## Result: 
 Thus the different image transformations such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping are done using OpenCV and python programming.
